@@ -1,2 +1,2 @@
 # Introduction-to-artificial-intelligence-Process2
-Local search on a 3D state space from an image using Random Restart Hill-Climbing, Simulated Annealing, and Local Beam Search (my contribution). Includes visualization of search paths in 3D.
+A group project for the "Introduction to Artificial Intelligence" course at Ton Duc Thang University. This project explores local search algorithms for optimizing a 3D state space generated from an image. Implemented strategies include Random Restart Hill-Climbing, Simulated Annealing, and Local Beam Search (with the Local Beam Search implemented by me). The Problem class handles state space loading, neighbor generation, and visualization of the search process. Results are visualized in 3D, showing search paths over the surface.
